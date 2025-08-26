@@ -28,4 +28,4 @@ This project was created for **fun and learning**. It demonstrates:
 ## 🔹 How to Run  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/faulty-calculator.git
+   git clone https://github.com/makertoy32/Faulty_Calculator.git
